@@ -29,3 +29,4 @@ exclude: [gitbook_source_code/]
 # All the plugins for Jekyll
 plugins:
   - jekyll-sitemap
+  - wdm
