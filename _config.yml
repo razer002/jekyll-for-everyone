@@ -14,7 +14,7 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: Suijth Thomas
 tagline: Software Developer, FullStack Developer, Integration Specialist
-pic: satz.png # profile.png can be found at /assets/images/profile.png
+pic: profile.png # profile.png can be found at /assets/images/profile.png
 description: Full Stack Developer, Integration Specialist
 description_tiny: Developer & Tinkerer
 email: sujith.thomas@gmail.com
@@ -29,4 +29,3 @@ exclude: [gitbook_source_code/]
 # All the plugins for Jekyll
 plugins:
   - jekyll-sitemap
-  - wdm
