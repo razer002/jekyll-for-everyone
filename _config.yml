@@ -14,14 +14,14 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: Suijth Thomas
 tagline: Software Developer, FullStack Developer, Integration Specialist
-pic: profile.png # profile.png can be found at /assets/images/profile.png
+pic: satz.png # profile.png can be found at /assets/images/profile.png
 description: Full Stack Developer, Integration Specialist
 description_tiny: Developer & Tinkerer
 email: sujith.thomas@gmail.com
 website: razer002.github.io # do not add http://
 linkedin: sujith-thomas-b13b788a
 github: razer002
-twitter: '@satz002'
+twitter: '@satzonline'
 
 # Files or folders to be excluded
 exclude: [gitbook_source_code/]
